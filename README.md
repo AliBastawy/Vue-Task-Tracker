@@ -1,5 +1,5 @@
 # vue-crash-2021
-
+## Without Vuex
 # Run JSON Server Beside run serve
 
 ## Project setup
